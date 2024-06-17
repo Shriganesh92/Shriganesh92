@@ -5,7 +5,9 @@
 1. Hello World - Using Java
 
 🚀 Skills & Technologies
-1. Languages: Java, C++, Python, PHP
+<ul>  
+   <li> Languages: Java, C++, Python, PHP </li>
+</ul>
 
 🌐 Visit My Portfolio
-Explore more projects and articles on [**Comming Soon**].
+Explore more projects and articles on [**Coming Soon**].

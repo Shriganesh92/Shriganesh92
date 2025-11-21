@@ -21,31 +21,21 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-
-  <!-- Gmail -->
-  <a href="mailto:shriganeshn1@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" width="40" />
+# 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:shriganeshn1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Shriganesh92" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
+  <a href="https://github.com/Shriganesh92">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/shri-ganesh-n" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+  <a href="https://linkedin.com/in/shri-ganesh-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/@shriganeshn1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
+  <a href="https://www.hackerrank.com/@shriganeshn1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-
 </p>
-
 
 ---
 
@@ -64,6 +54,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
@@ -84,6 +75,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
 
+
 ---
 
 ### 🗄️ **Databases**
@@ -91,9 +83,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
+
 ---
 
-### ⚙️ **DevOps & Tools**
+### ⚙️ **Developer Tools & Technologies**
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -111,16 +104,8 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Shriganesh92&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Shriganesh92&theme=blueberry&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriganesh92&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Shriganesh92&icon=0&color=0" />
-  </a>
-</p>

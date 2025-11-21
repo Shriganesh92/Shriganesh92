@@ -23,13 +23,29 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
+
+  <!-- Gmail -->
+  <a href="mailto:shriganeshn1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Shriganesh92" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" />
+  </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/shri-ganesh-n" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
   </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/@shriganeshn1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" />
   </a>
+
 </p>
+
 
 ---
 

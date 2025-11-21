@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shri Ganesh N</h1>
+<h1 align="center">Hello 👋, I'm Shri Ganesh N</h1>
 <h3 align="center">A Passionate AI/ML Engineer from India</h3>
 
 <div align="center">

@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Shri Ganesh N</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<h1 align="center">Hey 👋, I'm Shri Ganesh N</h1>
+<h3 align="center">A Passionate AI/ML Engineer from India</h3>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shriganesh92.Shriganesh92&left_color=tomato&right_color=indianred" />
@@ -102,10 +102,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shriganesh92&theme=blueberry&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shriganesh92&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img style="margin-right: 10px;" src="https://nirzak-streak-stats.vercel.app/?user=Shriganesh92&theme=blueberry&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriganesh92&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ---

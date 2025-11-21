@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/shri-ganesh-n">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/@shriganeshn1">
+  <a href="https://www.hackerrank.com/profile/shriganeshn1">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>

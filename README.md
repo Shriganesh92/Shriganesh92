@@ -11,7 +11,7 @@
 🔭 I’m currently specializing in **Machine Learning & Deep Learning**  
 👯 I’m looking to collaborate on **AI/ML Projects**  
 💬 Ask me about **Full Stack Development**, **DNNs**, and **AI Systems**  
-📫 Reach me at **shriganeshn1@gmail.com**
+📫 To view my real-time projects, reach me at **shriganeshn1@gmail.com**
 
 ---
 
@@ -35,6 +35,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/shriganeshn1">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/shriganeshn">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
